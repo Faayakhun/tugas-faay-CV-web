@@ -35,7 +35,7 @@ p {
     border-radius: 10px;
 }
 #header {
-    background-image: url("https://www.sololearn.com/Uploads/header.jpg");
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-simple-fashion-creative-design-banner-poster-background-image_181755.jpg");
     background-size: cover;
 }
 #header img {
@@ -139,6 +139,15 @@ input, textarea {
     display: block;
     margin-top: -35px;
     margin-bottom: -25px;
+}
+#wa img {
+    height: 50px;
+    width: 50px;
+}
+#wa {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
 }
 #contacts img {
     height: 50px;
